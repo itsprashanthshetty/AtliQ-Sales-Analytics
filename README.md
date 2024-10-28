@@ -24,6 +24,6 @@ Empower businesses to monitor and evaluate their sales activities and performanc
 
 Identify sales patterns and track key performance indicators (KPIs) to refine strategies and improve overall sales effectiveness.
 
--### **Role of reports:**
+- ### **Role of reports:**
 
 Determine effective customer discounts, facilitate negotiations with customers, and identify potential business expansion opportunities in promising countries.
