@@ -1,7 +1,7 @@
 # AtliQ Sales Analytics
 
 - ### **Project Overview:**
-  This project, created as part of the **"Excel: Mother of Business Intelligence"** course by CodeBasics, focuses on **sales analytics for AtliQ Hardware**. Utilizing Excel, it generates insightful reports, including customer performance over the years, market performance against targets, and a comprehensive analysis of product sales.
+  This project, created as part of the **Excel: Mother of Business Intelligence** course by CodeBasics, focuses on **sales analytics for AtliQ Hardware**. Utilizing Excel, it generates insightful reports, including customer performance over the years, market performance against targets, and a comprehensive analysis of product sales.
 
 - ### **Project Objective:**
 
