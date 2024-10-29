@@ -7,7 +7,7 @@ This project, created as part of the **"Excel: Mother of Business Intelligence"*
 
   **1.** Create a _[Customer Performance Report](https://github.com/itsprashanthshetty/AtliQ-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-  **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/itsprashanthshetty/AtliQ-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+  **2.** Create a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/itsprashanthshetty/AtliQ-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
   **3.**  Construct a detailed _[Product Report](https://github.com/itsprashanthshetty/AtliQ-Sales-Analytics/blob/main/Product%20Report.pdf)_ that includes:
   - Top 10 Products
