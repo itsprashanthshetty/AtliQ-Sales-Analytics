@@ -1,7 +1,7 @@
 # AtliQ Sales Analytics
 
 - ### **Project Overview:**
-  This project, created as part of the **Excel: Mother of Business Intelligence** course by CodeBasics, focuses on **sales analytics for AtliQ Hardware**. Utilizing Excel, it generates insightful reports, including customer performance over the years, market performance against targets, and a comprehensive analysis of product sales.
+  This project, created as part of the **Excel: Mother of Business Intelligence** course by CodeBasics, focuses on **sales analytics for AtliQ Hardwares**. Using Excel, it generates insightful reports covering customer performance over the years, market performance against targets, and a comprehensive analysis of product sales.
 
 - ### **Project Objective:**
 
@@ -13,20 +13,20 @@
     - Top 10 Products
     - Division Level Report
     - Top 5 and Bottom 5 Products
-    - New Products - 2021
-    - Top 5 Countries - 2021
+    - New Products (2021)
+    - Top 5 Countries (2021)
 
 - ### **Purpose of Sales Analytics:** 
 
-  Empower businesses to monitor and evaluate their sales activities and performance.
+  Enable businesses to monitor and evaluate their sales activities and performance.
 
 - ### **Importance of analyzing Sales Data:** 
 
-  Identify sales patterns and track key performance indicators (KPIs) to refine strategies and improve overall sales effectiveness.
+  Identifies sales patterns and track key performance indicators (KPIs) to refine strategies and enhance overall sales effectiveness.
 
 - ### **Role of reports:**
 
-  Determine effective customer discounts, facilitate negotiations with customers, and identify potential business expansion opportunities in promising countries.
+  Supports determining effective customer discounts, facilitates customer negotiations, and identifies potential business expansion opportunities in promising countries.
 
 ---
   
